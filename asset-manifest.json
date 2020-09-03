@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/echarts-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/echarts-react/static/js/main.93182f06.chunk.js",
+    "main.js.map": "/echarts-react/static/js/main.93182f06.chunk.js.map",
+    "runtime-main.js": "/echarts-react/static/js/runtime-main.fc45e960.js",
+    "runtime-main.js.map": "/echarts-react/static/js/runtime-main.fc45e960.js.map",
+    "static/js/2.d3c0f86c.chunk.js": "/echarts-react/static/js/2.d3c0f86c.chunk.js",
+    "static/js/2.d3c0f86c.chunk.js.map": "/echarts-react/static/js/2.d3c0f86c.chunk.js.map",
+    "index.html": "/echarts-react/index.html",
+    "precache-manifest.e47159301c0c8eae51c1fd43aaf301d4.js": "/echarts-react/precache-manifest.e47159301c0c8eae51c1fd43aaf301d4.js",
+    "service-worker.js": "/echarts-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/echarts-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d3c0f86c.chunk.js.LICENSE.txt": "/echarts-react/static/js/2.d3c0f86c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/echarts-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc45e960.js",
+    "static/js/2.d3c0f86c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.93182f06.chunk.js"
+  ]
+}
